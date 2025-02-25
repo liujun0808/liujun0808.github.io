@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-01-25-paper-title-number-1
 excerpt: 'This paper is about recognition and grasping based on visual guidance.'
 date: 2025-01-25
-venue: 'GitHub Journal of Bugs'
+venue: 'Intelligent Robotics and Applications'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-981-96-0792-1_16'
 citation: 'Liu, J., Zhu, Z., Tian, B., Cui, G. (2025). Recognition and Grasping of 3D Printed Concrete Reinforced Structural Parts Based on Visual Guidance. In: Lan, X., Mei, X., Jiang, C., Zhao, F., Tian, Z. (eds) Intelligent Robotics and Applications. ICIRA 2024. Lecture Notes in Computer Science(), vol 15206. Springer, Singapore. https://doi.org/10.1007/978-981-96-0792-1_16'
 ---
